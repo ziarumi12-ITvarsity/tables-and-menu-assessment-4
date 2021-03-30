@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+    text-decoration-color:crimson
+    font-style:normal;
+    font-family: Helvetica,sans-serif;
+    font-weight: 900;
+    text-decoration-line: underline;color:darkblue;
+
+}
+
+th{
+    font-weight: 900;
+    background-color:aqua;
+    color:cadetblue;
+    font-family: Helvetica,monospace;
+}
+
+table{
+    font-family:helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style:groove;
+    border-color:crimson;
+}
